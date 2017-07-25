@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HOME</string>
+    <string name="title_activity_welcome">Home Screen</string>
+
+    <string name="slide_1_title">Chainsmoker new album 2016</string>
+    <string name="slide_1_desc">ft Rihana and User</string>
+
+    <string name="slide_2_title">Emptiness</string>
+    <string name="slide_2_desc">ft. Justin Timberlake</string>
+
+    <string name="slide_3_title">Xscape</string>
+    <string name="slide_3_desc">Ft. Michael Jackson</string>
+
+    <string name="slide_4_title">Everybody gets high</string>
+    <string name="slide_4_desc">Ft. Missio</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
